@@ -1,11 +1,4 @@
-/*
-  Keyestudio Mini Tank Robot V3 (Popular Edition)
-  lesson 12.1
-  Matrix face
-  http://www.keyestudio.com
-*/
-//get the data of smile image from a modulus tool
-//#include "Costantes.h"
+
 #include "Pantalla.h"
 #include "Ultrasonico.h"
 #include "ControlServo.h"
